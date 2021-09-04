@@ -1,0 +1,15 @@
+.bgDiv {
+  background-color: #232323 !important;
+  color: white;
+}
+.userButton {
+  background-color: #323232 !important;
+  color: white;
+}
+.edubarSidebar {
+  background-color: #323232 !important;
+  border-right: solid 1px #323232;
+}
+.edubarMenulist span {
+  color: white !important;
+}
